@@ -1,2 +1,6 @@
 .venv/
-cheatsheet.md
+git_python_cheatsheet.md
+__pycache__/
+db.sqlite3
+.__pycashe__/
+db.sqllite3
